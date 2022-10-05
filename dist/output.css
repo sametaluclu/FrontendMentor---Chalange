@@ -567,26 +567,6 @@ video {
   height: 100vh;
 }
 
-.w-2\/5 {
-  width: 40%;
-}
-
-.w-3\/5 {
-  width: 60%;
-}
-
-.w-4\/5 {
-  width: 80%;
-}
-
-.w-64 {
-  width: 16rem;
-}
-
-.w-72 {
-  width: 18rem;
-}
-
 .w-80 {
   width: 20rem;
 }
@@ -658,14 +638,4 @@ video {
 body{
   font-family: 'Outfit', sans-serif;
   font-weight: 400;
-}
-
-@media (min-width: 768px) {
-  .md\:w-2\/5 {
-    width: 40%;
-  }
-
-  .md\:w-1\/5 {
-    width: 20%;
-  }
 }
