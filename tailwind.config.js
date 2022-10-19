@@ -11,6 +11,8 @@ module.exports = {
         "vry-dark-blue" : "hsl(217, 54%, 11%)",
         "card-blue" : "hsl(216, 50%, 16%)",
         "line-blue" : "hsl(215, 32%, 27%)",
+        "soft-blue" : "hsl(215, 51%, 70%)",
+        "cyan-eth" : "hsl(178, 100%, 50%)",
       }
     },
   },
