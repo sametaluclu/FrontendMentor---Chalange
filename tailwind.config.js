@@ -23,7 +23,14 @@ module.exports = {
         "drk-cyan" : "hsl(184, 100%, 22%)",
         "vry-dark-cyan" : "hsl(179, 100%, 13%)",
         "transp-white" : "hsla(0, 0%, 100% ,0.75)",
-        "vry-light-gray" : "hsl(0, 0%, 95%)"
+        "vry-light-gray" : "hsl(0, 0%, 95%)",
+        "vry-dark-main-blue" : "hsl(233, 47%, 7%)",
+        "desaturated-blue" : "hsl(244, 38%, 16%)",
+        "soft-violet": "hsl(277, 64%, 61%)",
+        "transp-white-2" : "hsla(0, 0%, 100%, 0.6)",
+      },
+      backgroundImage: {
+        "order-image" : "url(/src/Order-Summary/img/pattern-background-desktop.svg)",
       }
     },
     
